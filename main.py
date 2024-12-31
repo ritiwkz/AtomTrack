@@ -1,3 +1,4 @@
+#bin/python3
 import requests as rq
 
 # Function to fetch weather data from OpenWeather API
@@ -45,3 +46,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#
